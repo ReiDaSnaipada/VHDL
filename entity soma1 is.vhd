@@ -15,7 +15,4 @@ entity soma1 is
         
         
     end architecture a;
-
- soma  1s   <= a xor b xor cin;
- cout <= (a and b) or (a and cin) or (b and cin); 
     )
